@@ -4,8 +4,7 @@ A smart web application that helps farmers and agriculture enthusiasts plan crop
 
 ## 🚀 Live Demo
 
-🔗 https://resilient-dusk-83d89f.netlify.app/
-
+https://6a4bad7f1d2a4717bfcadfc8--tranquil-sprite-ef643d.netlify.app/
 ## 📌 Features
 
 - 🌾 Select crop type
